@@ -1,0 +1,8 @@
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\bin\Debug\netstandard2.0\GenericMapper.deps.json
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\bin\Debug\netstandard2.0\GenericMapper.dll
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\bin\Debug\netstandard2.0\GenericMapper.pdb
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\obj\Debug\netstandard2.0\GenericMapper.csprojAssemblyReference.cache
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\obj\Debug\netstandard2.0\GenericMapper.AssemblyInfoInputs.cache
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\obj\Debug\netstandard2.0\GenericMapper.AssemblyInfo.cs
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\obj\Debug\netstandard2.0\GenericMapper.dll
+C:\Users\pmills\source\Repos\GenericMapper\GenericMapper\GenericMapper\obj\Debug\netstandard2.0\GenericMapper.pdb

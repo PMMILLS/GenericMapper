@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6YNG0HHEBoAIWstIRKy9qEI6XCFpZmK6ehNECMc2aXzgDaQjrnwCa9VKVU1hhOsxeBdgSw9T1o3iqUHZ1LIiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmills\\source\\Repos\\GenericMapper\\GenericMapper\\GenericMapper\\GenericMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmills\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pmills\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pmills\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
